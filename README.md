@@ -20,8 +20,8 @@ The user plays against the computer. The computer generates a random choice each
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript (DOM Manipulation)
 
 ---
