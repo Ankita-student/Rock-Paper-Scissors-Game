@@ -63,6 +63,10 @@ No installation required.
 
 ---
 
+Live Demo
+
+👉 https://ankita-student.github.io/Rock-Paper-Scissors-Game/
+
 ## 🎯 Learning Outcomes
 
 - Understanding event handling in JavaScript
